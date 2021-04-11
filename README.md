@@ -34,11 +34,9 @@
 ### バージョン004の画像
 ![バージョン004](https://storage.googleapis.com/zenn-user-upload/4lsbnworil6gmpgtm23iis0pbyw7)
 
+## AdaBelief 参考記事
+- [出きたてホヤホヤ！最新オプティマイザー「AdaBelief」を解説！](https://qiita.com/omiita/items/5012afa3cba4d73a7aed)
+- [GitHub](https://github.com/juntang-zhuang/Adabelief-Optimizer)
 
-
-## AdaBelief
-[出きたてホヤホヤ！最新オプティマイザー「AdaBelief」を解説！](https://qiita.com/omiita/items/5012afa3cba4d73a7aed)
-[GitHub](https://github.com/juntang-zhuang/Adabelief-Optimizer)
-
-## FReLU
+## FReLU 参考記事
 [【実装】あたらしい活性化関数「FReLU」をPytorch CIFER10 Turorialに組み込んでみる](https://qiita.com/Radley/items/5cfa226d9d108e769861)
