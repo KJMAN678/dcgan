@@ -9,9 +9,16 @@
 |003|0.0002|AdaBelief|relu->tann||
 |004|0.0002|Adam|frelu->tann|
 
+### バージョン001の画像
 ![バージョン001](https://storage.googleapis.com/zenn-user-upload/e6gq761219s8pev6oq8qscdgy84p)
+
+### バージョン002の画像
 ![バージョン002](https://storage.googleapis.com/zenn-user-upload/jc3232hn99cf4n972cz9cwoircb1)
+
+### バージョン003の画像
 ![バージョン003](https://storage.googleapis.com/zenn-user-upload/stb39ibk32j4n25eybu2h5bglcdg)
+
+### バージョン004の画像
 ![バージョン004](https://storage.googleapis.com/zenn-user-upload/4lsbnworil6gmpgtm23iis0pbyw7)
 
 ## 元ネタ
