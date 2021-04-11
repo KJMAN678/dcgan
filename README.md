@@ -2,9 +2,9 @@
 
 ## [Colab上のコード](https://colab.research.google.com/drive/1C0tk_2UmRu4PGwBPePxfSmyPmYfSd8Fg?usp=sharing)
 
-## コードの参照先
-[５ステップでできるPyTorch - DCGAN](https://qiita.com/hkthirano/items/7381095aaee668513487)
-[使われているアニメキャラの画像の加工済みデータセット](https://github.com/hkthirano/5Steps-PyTorch-DCGAN)
+## コードの引用元
+- [５ステップでできるPyTorch - DCGAN](https://qiita.com/hkthirano/items/7381095aaee668513487)
+- [使われているアニメキャラの画像の加工済みデータセット](https://github.com/hkthirano/5Steps-PyTorch-DCGAN)
 
 ## 変更点
 - GoogleColab上で実行が完結するように修正
