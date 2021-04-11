@@ -1,4 +1,4 @@
-# dcgan
+# DCGAN
 
 ## コードの参照先
 [５ステップでできるPyTorch - DCGAN](https://qiita.com/hkthirano/items/7381095aaee668513487)
