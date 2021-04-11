@@ -1,6 +1,17 @@
 # dcgan
 
-## 設定の違い
+## コードの参照先
+[５ステップでできるPyTorch - DCGAN](https://qiita.com/hkthirano/items/7381095aaee668513487)
+[使われているアニメキャラの画像の加工済みデータセット](https://github.com/hkthirano/5Steps-PyTorch-DCGAN)
+
+## 変更点
+- GoogleColab上で実行が完結するように修正
+- GPU環境だけでなく非GPU環境でも実行可能なよう修正
+- パラメーターを1セルに集約
+- TensorBoardの設定
+- 最終的に生成した画像を表示するコードを追加
+
+## 検証した各設定の違い
 
 |バージョン|学習率|画像サイズ最適化関数|gen活性化関数|
 |----|----|----|----|
@@ -21,9 +32,7 @@
 ### バージョン004の画像
 ![バージョン004](https://storage.googleapis.com/zenn-user-upload/4lsbnworil6gmpgtm23iis0pbyw7)
 
-## 元ネタ
-[５ステップでできるPyTorch - DCGAN](https://qiita.com/hkthirano/items/7381095aaee668513487)
-[使われているアニメキャラの画像の加工済みデータセット](https://github.com/hkthirano/5Steps-PyTorch-DCGAN)
+
 
 ## AdaBelief
 [出きたてホヤホヤ！最新オプティマイザー「AdaBelief」を解説！](https://qiita.com/omiita/items/5012afa3cba4d73a7aed)
